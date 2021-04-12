@@ -1,0 +1,7 @@
+Это тестовый текст.
+<listing> 
+public class MyObject implements Comparable<MyObject> {
+	double d;
+}
+</listing>
+Вот всех, задачахттт!!

@@ -1,0 +1,4 @@
+2021-04-12 14:23:04,143 INFO c.v.t.s.FileManager [main] The file was read successfully.
+2021-04-12 14:23:04,152 INFO c.v.t.s.TextBookParser [main] Textbook parsing is started
+2021-04-12 14:23:04,166 INFO c.v.t.s.TextBookParser [main] Textbook is ready
+2021-04-12 14:23:04,188 INFO c.v.t.s.FileManager [main] The file was written successfully.
